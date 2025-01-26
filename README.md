@@ -7,12 +7,12 @@ Made with GitHub tools, then deployed to remote repos.
   * https://motetpaper.github.io/hexrgb/ 
   * Fun with HEXRGB sliders
   * Ctrl+Click Grey Mode
-  * Source: https://motetpaper.github.io/pwa-motet-hexrgb/
+  * Source: https://github.com/motetpaper/pwa-motet-hexrgb/
   
 ### motet-clock
   * https://motetpaper.github.io/clock/ 
   * Simple clock or is it...?
-  * Source: https://motetpaper.github.io/pwa-motet-clock/
+  * Source: https://github.com/motetpaper/pwa-motet-clock/
 
 ### PINYIN KANGXI CHART
   + Build Hanyu Pinyin Kangxi Charts programmatically.
