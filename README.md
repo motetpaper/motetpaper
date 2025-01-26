@@ -14,9 +14,15 @@ Made with GitHub tools, then deployed to remote repos.
   * Simple clock or is it...?
   * Source: https://github.com/motetpaper/pwa-motet-clock/
 
+## Study Tools
+
+### KJV BIBLE DATA
+  + Converts KJV from Project Gutenberg into many data sources.
+
 ### PINYIN KANGXI CHART
   + Build Hanyu Pinyin Kangxi Charts programmatically.
   + Source: https://github.com/motetpaper/kangxi-mkchart
+
 
 ## Google Workspace editor add-ons
 
