@@ -9,7 +9,7 @@ Made with GitHub tools, then deployed to remote repos.
   * Ctrl+Click Grey Mode
   * Source: https://motetpaper.github.io/pwa-motet-hexrgb/
   
-### CLOCK
+### motet-clock
   * https://motetpaper.github.io/clock/ 
   * Simple clock or is it...?
   * Source: https://motetpaper.github.io/pwa-motet-clock/
@@ -17,6 +17,22 @@ Made with GitHub tools, then deployed to remote repos.
 ### PINYIN KANGXI CHART
   + Build Hanyu Pinyin Kangxi Charts programmatically.
   + Source: https://github.com/motetpaper/kangxi-mkchart
+
+## Google Workspace editor add-ons
+
+### marta-duo
+  * Markdown table exporter for Google Sheets
+  * Downloads markdown table to a plain text file
+  * Source: https://github.com/motetpaper/marta-duo
+  
+### motet-hanyupinyin
+  * Convert Chinese characters into Hanyu Pinyin 
+  * Source: https://github.com/motetpaper/motet-hanyupinyin
+
+### motet-tonemarks
+  + Convert Hanyu Pinyin tone numbers to ISO-compliant or legacy tonemarks
+  + Source: https://github.com/motetpaper/motet-tonemarks
+
 
 <!--
 **motetpaper/motetpaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
