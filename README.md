@@ -1,5 +1,23 @@
 # MOTETPAPER
 
+## Google Workspace editor add-ons
+
+### marta-duo
+  * Markdown table exporter for Google Sheets
+  * Converts text styles into Markdown syntax
+  * Downloads markdown table to a plain text file
+  * Designed for very large markdown table datasets
+  * Source: https://github.com/motetpaper/marta-duo
+  
+### motet-hanyupinyin
+  * Convert Chinese characters into Hanyu Pinyin 
+  * Source: https://github.com/motetpaper/motet-hanyupinyin
+
+### motet-tonemarks
+  + Convert Hanyu Pinyin tone numbers to ISO-compliant or legacy tonemarks
+  + Source: https://github.com/motetpaper/motet-tonemarks
+
+
 ## PWA Projects
 Made with GitHub tools, then deployed to remote repos.
 
@@ -23,21 +41,6 @@ Made with GitHub tools, then deployed to remote repos.
   + Build Hanyu Pinyin Kangxi Charts programmatically.
   + Source: https://github.com/motetpaper/kangxi-mkchart
 
-
-## Google Workspace editor add-ons
-
-### marta-duo
-  * Markdown table exporter for Google Sheets
-  * Downloads markdown table to a plain text file
-  * Source: https://github.com/motetpaper/marta-duo
-  
-### motet-hanyupinyin
-  * Convert Chinese characters into Hanyu Pinyin 
-  * Source: https://github.com/motetpaper/motet-hanyupinyin
-
-### motet-tonemarks
-  + Convert Hanyu Pinyin tone numbers to ISO-compliant or legacy tonemarks
-  + Source: https://github.com/motetpaper/motet-tonemarks
 
 
 <!--
