@@ -12,7 +12,7 @@
   * Source: https://github.com/motetpaper/marta-duo
   
 ### motet-hanyupinyin
-  * Convert Chinese characters into Hanyu Pinyin 
+  * Convert Chinese characters into Hanyu Pinyin in Google Sheets
   * Source: https://github.com/motetpaper/motet-hanyupinyin
 
 ### motet-tonemarks
