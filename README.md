@@ -1,6 +1,8 @@
 # MOTETPAPER
 
-## Google Workspace editor add-ons
+
+
+## Google Workspace add-ons
 
 ### marta-duo
   * Markdown table exporter for Google Sheets
