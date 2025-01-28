@@ -7,8 +7,8 @@
 ### marta-duo
   * Markdown table exporter for Google Sheets
   * Converts text styles into Markdown syntax
-  * Downloads markdown table to a plain text file
-  * Designed for very large markdown table datasets
+  * Downloads markdown table to a text file
+  * Exports large markdown table datasets
   * Source: https://github.com/motetpaper/marta-duo
   
 ### motet-hanyupinyin
